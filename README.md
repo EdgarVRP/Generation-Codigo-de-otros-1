@@ -22,5 +22,13 @@ Hallazgos acerca del codigo:
 * Archivo index.html
   * La pagina tiene de titulo APIs
   * Solo cuenta con 2 etiquetas p
-  * El archivo CSS NO esta correctamente ligado
-* .
+  * Los archivos css y js NO estan correctamente ligados
+  * Falta etiqueta con clase location
+* Archivo styles.css
+  * El codigo no se encontraba identado
+  * Se asignan estilos de cosas no implementadas
+* Archivo app.js
+  * Se tiene el error de tener un await sin Async
+  * Los querySelector no estaban bien nombrados
+  * Falta convertir a objeto JSON la respuesta a la solicitud
+  * No hacia uso de backticks para poder incluir de forma adecuada el contenido de las variables
